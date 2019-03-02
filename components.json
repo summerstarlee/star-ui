@@ -1,0 +1,10 @@
+{
+  "date-range": "./packages/date-range/index.js",
+  "filter": "./packages/filter/index.js",
+  "filter-popop": "./packages/filter-popop/index.js",
+  "filter-select": "./packages/filter-select/index.js",
+  "input": "./packages/input/index.js",
+  "line-title": "./packages/line-title/index.js",
+  "page": "./packages/page/index.js",
+  "tree": "./packages/tree/index.js"
+}
